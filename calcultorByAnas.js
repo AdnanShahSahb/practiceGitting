@@ -1,7 +1,6 @@
 function add(num1, num2) {
   return num1 + num2;
 }
-
 // Define a function to subtract two numbers
 function subtract(num1, num2) {
   return num1 - num2;
@@ -10,7 +9,6 @@ function subtract(num1, num2) {
 function multiply(num1, num2) {
   return num1 * num2;
 }
-
 // Define a function to divide two numbers
 function divide(num1, num2) {
   if (num2 === 0) {
@@ -27,11 +25,7 @@ console.log("Division:", divide(8, 2));
 console.log("Division:", divide(4, 2));
 console.log("Division:", divide(80, 2));
 console.log("Division:", divide(23, 2));
-
-
-
 console.warn('anas file calculator')
-
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -39,37 +33,13 @@ function shuffleArray(array) {
   }
   return array;
 }
-
-
 console.warn('anas file calculator2')
-
-
 console.log(shuffleArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 console.log(shuffleArray([10, 9, 8, 7, 6, 5, 4, 3, 2, 1]));
 alert(shuffleArray([45, 46, 47, 48]), "Hello World!");
 // added again you know
-
 console.log("asdf6");
 console.log("asdf7");
 console.log("asdf8");
 console.log("asdf9");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 console.log('changed');
