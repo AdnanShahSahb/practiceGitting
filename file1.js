@@ -11,3 +11,23 @@ function getRandomInt(min, max) {
 }
 
 console.log(getRandomInt(1, 100));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('changed');
