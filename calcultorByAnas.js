@@ -23,3 +23,7 @@ console.log("Addition:", add(5, 3));
 console.log("Subtraction:", subtract(10, 4));
 console.log("Multiplication:", multiply(2, 6));
 console.log("Division:", divide(8, 2));
+console.log("Division:", divide(8, 2));
+console.log("Division:", divide(4, 2));
+console.log("Division:", divide(80, 2));
+console.log("Division:", divide(23, 2));
