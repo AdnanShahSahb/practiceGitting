@@ -3,6 +3,7 @@ export const asdf2 = () => {
 
   console.log("added by adnan");
 };
+alert("Hello World!");
 
 
 function getRandomFloat(min, max) {
