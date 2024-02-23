@@ -28,6 +28,10 @@ console.log("Division:", divide(4, 2));
 console.log("Division:", divide(80, 2));
 console.log("Division:", divide(23, 2));
 
+
+
+console.warn('anas file calculator')
+
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -35,6 +39,10 @@ function shuffleArray(array) {
   }
   return array;
 }
+
+
+console.warn('anas file calculator2')
+
 console.log(shuffleArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 // added again you know
 

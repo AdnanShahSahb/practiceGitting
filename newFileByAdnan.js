@@ -27,6 +27,12 @@ console.log("asdf9");
 
 
 
+alert('adnan file random int')
+
+
+
+
+
 
 
 
