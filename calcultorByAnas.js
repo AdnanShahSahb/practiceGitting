@@ -27,6 +27,7 @@ console.log("Division:", divide(8, 2));
 console.log("Division:", divide(4, 2));
 console.log("Division:", divide(80, 2));
 console.log("Division:", divide(23, 2));
+
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -44,3 +45,23 @@ console.log("asdf6");
 console.log("asdf7");
 console.log("asdf8");
 console.log("asdf9");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('changed');

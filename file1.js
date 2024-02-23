@@ -11,10 +11,23 @@ function getRandomInt(min, max) {
 }
 alert(getRandomInt(1, 100), "Anas JAHangir CHnages");
 console.log(getRandomInt(1, 100));
-function getRandomColor() {
-  const r = Math.floor(Math.random() * 256);
-  const g = Math.floor(Math.random() * 256);
-  const b = Math.floor(Math.random() * 256);
-  return `rgb(${r}, ${g}, ${b})`;
-}
-console.log(getRandomColor(), "random colors");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('changed');
