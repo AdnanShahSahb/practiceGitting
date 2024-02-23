@@ -7,4 +7,5 @@ export const asdf2 = () => {
     console.log('asdf3');
     console.log('asdf4');
 
+    console.log('asdf5');
 }
