@@ -4,6 +4,7 @@ export const asdf2 = () => {
 
   console.log("asdf3");
   console.log("asdf4");
+  alert("Dont call this function");
 
   console.log("asdf5");
 };
@@ -15,6 +16,8 @@ function getRandomInt(min, max) {
 }
 
 console.log(getRandomInt(1, 100), "random int");
+console.log(getRandomInt(100, 10000), "random int");
+alert(getRandomInt(10000, 10000000), "random int");
 console.log("asdf5");
 
 console.log("asdf6");
