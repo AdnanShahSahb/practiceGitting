@@ -34,7 +34,7 @@ function shuffleArray(array) {
   }
   return array;
 }
-
+console.log(shuffleArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 // added again you know
 
 console.log("asdf6");

@@ -6,3 +6,4 @@ export const asdf2 = () => {
 function getRandomFloat(min, max) {
   return Math.random() * (max - min) + min;
 }
+console.log(getRandomFloat(1, 100), "random float");
