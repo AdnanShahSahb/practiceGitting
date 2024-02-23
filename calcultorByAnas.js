@@ -34,3 +34,10 @@ function shuffleArray(array) {
   }
   return array;
 }
+
+// added again you know
+
+console.log("asdf6");
+console.log("asdf7");
+console.log("asdf8");
+console.log("asdf9");

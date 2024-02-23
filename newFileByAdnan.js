@@ -13,3 +13,9 @@ function getRandomInt(min, max) {
   max = Math.floor(max);
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
+console.log("asdf5");
+
+console.log("asdf6");
+console.log("asdf7");
+console.log("asdf8");
+console.log("asdf9");
